@@ -1,1 +1,1 @@
-implementing very very simple http service with XmlHttpRequest
+Implementing very very simple http service with XmlHttpRequest.
